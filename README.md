@@ -73,7 +73,19 @@ If you have something to say, you can contact me by sending mail to: `Farrelsatr
 ## My Project Template
 You might want to use it.
 
-1. My first Project.
+1. Some text coding
+   ```sh
+   <marquee behavior="scroll" direction="left">
+   Anjay mabar...
+   </marquee>
+
+   <h1>Hello World</h1>
+
+   <button id=“button1” onclick="myFunction()">
+   Click Me!
+   </button>
+
+2. My first Website Project.
    ```sh
    git clone
    <!DOCTYPE html>
@@ -207,6 +219,7 @@ You might want to use it.
 - [ ] 2. Copy the code
 - [ ] 3. Simply paste it to an Index.html file
 - [ ] 4. Use domain maker and website maker to complete.
+- [ ] 5. You can also use a html reader if you just want to play around, of course.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
